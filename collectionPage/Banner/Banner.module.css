@@ -1,0 +1,20 @@
+
+
+.banner_img_mobile{
+    display: none;
+}
+.banner_img_img{
+    aspect-ratio: 16/3;
+}
+
+@media screen and (max-width: 35em) {
+    .banner_img_mobile{
+        display: block;
+    }
+    .banner_img_mobile_img{
+        aspect-ratio: 16/9;
+    }
+    .banner_img {
+        display: none;
+    }
+}

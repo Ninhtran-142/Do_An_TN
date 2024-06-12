@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/searchPage": "pages/searchPage.js",
+  "/collection": "pages/collection.js",
+  "/NFT-details": "pages/NFT-details.js"
+}
